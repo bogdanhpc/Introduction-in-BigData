@@ -1,0 +1,54 @@
+Forecasting: Principles and Practice (2nd ed)
+Rob J Hyndman and George Athanasopoulos
+Monash University, Australia
+https://otexts.com/fpp2/
+______
+
+Econometric Data Science: A Predictive Modeling Approach
+https://www.sas.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
+
+_______
+
+Econometric Data Science
+Francis X. Diebold University of Pennsylvania
+https://www.sas.upenn.edu/~fdiebold/Teaching104/Slides.pdf
+
+_______
+
+https://github.com/marcelmittelstaedt/BigData
+
+_______
+
+https://github.com/gtolomei/big-data-computing
+
+_______
+
+https://github.com/vu-topics-in-big-data-2021/lectures
+
+_______
+
+https://github.com/calvincodes
+
+_______
+
+https://github.com/niaohe/Big-Data-Optimization-Course/tree/main
+
+_______
+
+https://github.com/ppkgtmm/big-data
+
+_______
+
+https://github.com/rdsea/bigdataplatforms/tree/master
+
+_______
+
+https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization
+
+_______
+
+https://albertchristopherr.medium.com/a-look-at-fast-approaching-trends-of-big-data-engineering-in-2023-8e434d04d202
+
+______
+
+
